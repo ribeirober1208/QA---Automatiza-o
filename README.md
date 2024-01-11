@@ -1,1 +1,1 @@
-# QA---Automatiza-o
+# QA-Automatizado
